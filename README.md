@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer & Designer
 -----------------------------
 
-I am a 21 years old Frontend developer, with over 3 years experience in building and designing enterprise products. Despite my age I'm very confident in my skills and over this 3 years I worked on challenging products both in design and development sides. Also I'm always open to learn new things and try new stacks and challenge myself to grow more!
+I am a Frontend developer with over 3 years experience in building and designing enterprise products. I worked on challenging products both in design and development sides. Also I'm always open to learn new things and try new stacks and challenge myself to grow more!
 
 * 🌍  I'm based in Tehran, IRAN
 * ✉️  You can contact me at [Diyar1379@gmail.com](mailto:Diyar1379@gmail.com)
