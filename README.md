@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diyar Karimzadeh
 ========================================================================================================================================
 
-Frontend Developer & Designer
+Frontend Developer
 -----------------------------
 
 I am a Frontend developer with over 3 years experience in building and designing enterprise products. I worked on challenging products both in design and development sides. Also I'm always open to learn new things and try new stacks and challenge myself to grow more!
